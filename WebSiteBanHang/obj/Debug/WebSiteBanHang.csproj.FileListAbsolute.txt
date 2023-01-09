@@ -1,0 +1,250 @@
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\WebSiteBanHang.dll.config
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\WebSiteBanHang.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\WebSiteBanHang.pdb
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Antlr3.Runtime.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\EntityFramework.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\EntityFramework.SqlServer.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Newtonsoft.Json.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Owin.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Helpers.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Mvc.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Optimization.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Razor.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.Deployment.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.Razor.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\WebGrease.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Helpers.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Mvc.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Optimization.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Razor.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.Deployment.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.Razor.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Newtonsoft.Json.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Antlr3.Runtime.pdb
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\EntityFramework.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\EntityFramework.SqlServer.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.pdb
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.csprojResolveAssemblyReference.cache
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\CaptchaMvc.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\CaptchaMvc.pdb
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\CaptchaMvc.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\PagedList.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\PagedList.Mvc.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\PagedList.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang\WebSiteBanHang\bin\PagedList.Mvc.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\WebSiteBanHang.dll.config
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\WebSiteBanHang.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\WebSiteBanHang.pdb
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\Antlr3.Runtime.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\CaptchaMvc.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\EntityFramework.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\EntityFramework.SqlServer.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\Microsoft.Owin.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\Microsoft.Owin.Security.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\Newtonsoft.Json.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\Owin.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\PagedList.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\PagedList.Mvc.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\System.Web.Helpers.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\System.Web.Mvc.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\System.Web.Optimization.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\System.Web.Razor.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\System.Web.WebPages.Deployment.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\System.Web.WebPages.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\System.Web.WebPages.Razor.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\WebGrease.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\CaptchaMvc.pdb
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\CaptchaMvc.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\PagedList.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\PagedList.Mvc.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\System.Web.Helpers.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\System.Web.Mvc.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\System.Web.Optimization.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\System.Web.Razor.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\System.Web.WebPages.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\System.Web.WebPages.Deployment.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\System.Web.WebPages.Razor.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\Newtonsoft.Json.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\Antlr3.Runtime.pdb
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\EntityFramework.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\EntityFramework.SqlServer.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\Microsoft.Owin.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\Microsoft.Owin.Security.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\obj\Debug\WebSiteBanHang.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\obj\Debug\WebSiteBanHang.pdb
+C:\Users\kaitokido\Desktop\WebSiteBanHang - Copy\WebSiteBanHang\obj\Debug\WebSiteBanHang.csprojResolveAssemblyReference.cache
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\WebSiteBanHang.dll.config
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\WebSiteBanHang.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\WebSiteBanHang.pdb
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Antlr3.Runtime.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\CaptchaMvc.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\EntityFramework.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\EntityFramework.SqlServer.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.Owin.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.Owin.Security.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Newtonsoft.Json.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Owin.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\PagedList.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\PagedList.Mvc.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\System.Web.Helpers.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\System.Web.Mvc.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\System.Web.Optimization.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\System.Web.Razor.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\System.Web.WebPages.Deployment.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\System.Web.WebPages.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\System.Web.WebPages.Razor.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\WebGrease.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\CaptchaMvc.pdb
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\CaptchaMvc.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\PagedList.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\PagedList.Mvc.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\System.Web.Helpers.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\System.Web.Mvc.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\System.Web.Optimization.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\System.Web.Razor.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\System.Web.WebPages.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\System.Web.WebPages.Deployment.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\System.Web.WebPages.Razor.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Newtonsoft.Json.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Antlr3.Runtime.pdb
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\EntityFramework.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\EntityFramework.SqlServer.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.Owin.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.Owin.Security.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\obj\Debug\WebSiteBanHang.dll
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\obj\Debug\WebSiteBanHang.pdb
+C:\Users\kaitokido\Desktop\WebSiteBanHang-copy - Copy\WebSiteBanHang\obj\Debug\WebSiteBanHang.csprojResolveAssemblyReference.cache
+E:\Freelance\QLBH\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\WebSiteBanHang.dll.config
+E:\Freelance\QLBH\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\WebSiteBanHang.dll
+E:\Freelance\QLBH\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\WebSiteBanHang.pdb
+E:\Freelance\QLBH\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Antlr3.Runtime.dll
+E:\Freelance\QLBH\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\CaptchaMvc.dll
+E:\Freelance\QLBH\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\EntityFramework.dll
+E:\Freelance\QLBH\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\EntityFramework.SqlServer.dll
+E:\Freelance\QLBH\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Freelance\QLBH\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Freelance\QLBH\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Freelance\QLBH\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.Owin.dll
+E:\Freelance\QLBH\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Freelance\QLBH\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Freelance\QLBH\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.Owin.Security.dll
+E:\Freelance\QLBH\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Freelance\QLBH\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.Owin.Security.Google.dll
+E:\Freelance\QLBH\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Freelance\QLBH\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Freelance\QLBH\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Freelance\QLBH\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.Web.Infrastructure.dll
+E:\Freelance\QLBH\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Newtonsoft.Json.dll
+E:\Freelance\QLBH\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Owin.dll
+E:\Freelance\QLBH\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\PagedList.dll
+E:\Freelance\QLBH\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\PagedList.Mvc.dll
+E:\Freelance\QLBH\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\System.Web.Helpers.dll
+E:\Freelance\QLBH\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\System.Web.Mvc.dll
+E:\Freelance\QLBH\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\System.Web.Optimization.dll
+E:\Freelance\QLBH\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\System.Web.Razor.dll
+E:\Freelance\QLBH\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\System.Web.WebPages.Deployment.dll
+E:\Freelance\QLBH\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\System.Web.WebPages.dll
+E:\Freelance\QLBH\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\System.Web.WebPages.Razor.dll
+E:\Freelance\QLBH\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\WebGrease.dll
+E:\Freelance\QLBH\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\CaptchaMvc.pdb
+E:\Freelance\QLBH\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\CaptchaMvc.xml
+E:\Freelance\QLBH\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\PagedList.xml
+E:\Freelance\QLBH\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\PagedList.Mvc.xml
+E:\Freelance\QLBH\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\System.Web.Helpers.xml
+E:\Freelance\QLBH\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\System.Web.Mvc.xml
+E:\Freelance\QLBH\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\System.Web.Optimization.xml
+E:\Freelance\QLBH\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\System.Web.Razor.xml
+E:\Freelance\QLBH\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\System.Web.WebPages.xml
+E:\Freelance\QLBH\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\System.Web.WebPages.Deployment.xml
+E:\Freelance\QLBH\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\System.Web.WebPages.Razor.xml
+E:\Freelance\QLBH\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Newtonsoft.Json.xml
+E:\Freelance\QLBH\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Antlr3.Runtime.pdb
+E:\Freelance\QLBH\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\EntityFramework.xml
+E:\Freelance\QLBH\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\EntityFramework.SqlServer.xml
+E:\Freelance\QLBH\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Freelance\QLBH\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Freelance\QLBH\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Freelance\QLBH\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.Owin.xml
+E:\Freelance\QLBH\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Freelance\QLBH\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.Owin.Security.xml
+E:\Freelance\QLBH\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Freelance\QLBH\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Freelance\QLBH\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Freelance\QLBH\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.Owin.Security.Google.xml
+E:\Freelance\QLBH\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Freelance\QLBH\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Freelance\QLBH\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\obj\Debug\WebSiteBanHang.csproj.AssemblyReference.cache
+E:\Freelance\QLBH\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\obj\Debug\WebSiteBanHang.csproj.CoreCompileInputs.cache
+E:\Freelance\QLBH\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\obj\Debug\WebSiteBanHang.csproj.CopyComplete
+E:\Freelance\QLBH\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\obj\Debug\WebSiteBanHang.dll
+E:\Freelance\QLBH\BÀI 5.22 QUẢN LÝ QUYỀN, PHÂN QUYỀN\WebSiteBanHang-copy - Copy\WebSiteBanHang\obj\Debug\WebSiteBanHang.pdb
